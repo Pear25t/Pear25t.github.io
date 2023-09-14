@@ -1,4 +1,4 @@
 function buttclick(){
     
-    alert ("Congrats!!! You are now a perent do a nonexisting kid, good job")
+    alert ("Congrats!!! You are now a parent do a nonexisting kid, good job")
 }
