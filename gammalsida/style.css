@@ -1,0 +1,47 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
+    color: brown;
+}
+
+p {
+
+    font-family: 'Courier New', Courier, monospace;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+h1  {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: burlywood;
+    color: brown;
+    padding: 20px;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: burlywood;
+    color: brown;
+    padding: 20px;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+    width: fit-content;
+
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: burlywood;
+    color: brown;
+    padding: 20px;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
