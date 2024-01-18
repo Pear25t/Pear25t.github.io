@@ -1,0 +1,54 @@
+p {
+    font-size: x-large;
+    margin-top: 20vh;
+    color: #005F6A;
+}
+
+p4 {
+    margin-left: 5%;
+    color: darkcyan;
+}
+p3 {
+    margin-left: 5%;
+    color: darkcyan;
+}
+p2 {
+    margin-left: 5%;
+    color: darkcyan;
+}
+p1 {
+    color: darkcyan;
+}
+p5 {
+    margin-left: 5%;
+    color: darkcyan;
+}
+.navbar {
+    margin-top: 0px;
+    padding-top: 4vh;
+    background-color: white;
+}
+
+body {
+    background-image: url("backgruond.png");
+    background-color: bisque;
+}
+p6 {
+    font-size: xx-large;
+    color: white;
+    white-space: pre-wrap;
+}
+p7 {
+    color: white;
+    white-space: pre-wrap;
+}
+p8 {
+    background-color: orange;
+    color: white;
+    border-radius: 50px;
+    margin-left: 5vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}

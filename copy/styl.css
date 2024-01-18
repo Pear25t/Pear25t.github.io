@@ -1,0 +1,22 @@
+body {
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+h2 {
+
+    color: red;
+}
+
+h4 {
+    text-decoration: underline;
+    color: red;
+}
+
+p {
+    font-size: smaller;
+}
