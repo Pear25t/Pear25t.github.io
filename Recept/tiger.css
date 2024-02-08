@@ -1,0 +1,18 @@
+body {
+    background-color: lightcoral;
+    color: greenyellow;
+}
+
+ul{
+    list-style: none;
+    padding-left: 1%;
+}
+
+.arrow::before {
+    content: "← ";
+}
+img {
+    border-style: solid;
+    border-radius: 30px;
+    border-color: greenyellow;
+}
