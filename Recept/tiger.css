@@ -16,3 +16,7 @@ img {
     border-radius: 30px;
     border-color: greenyellow;
 }
+.main-content {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
