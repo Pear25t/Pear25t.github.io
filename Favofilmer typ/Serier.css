@@ -1,0 +1,32 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+.Ninja{
+    margin-left: 55px;
+    font-weight: bold;
+}
+.JJK{
+    margin-left: 55px;
+    font-weight: bold;
+}
+.Blueguy{
+    margin-left: 55px;
+    font-weight: bold;
+}
+.serier{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.varför{
+    display: flex;
+    justify-content: center;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

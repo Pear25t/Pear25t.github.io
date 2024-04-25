@@ -1,0 +1,32 @@
+.filmer{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.monster{
+    margin-left: 55px;
+    font-weight: bold;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.Hangover{
+    margin-left: 55px;
+    font-weight: bold;    
+}
+.Grownups{
+    margin-left: 55px;
+    font-weight: bold;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.varför{
+    display: flex;
+    justify-content: center;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

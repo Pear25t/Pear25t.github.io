@@ -1,0 +1,32 @@
+.varför{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.spel{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.Overwatch{
+    margin-left: 55px;
+    font-weight: bold;
+}
+.Apex{
+    margin-left: 55px;
+    font-weight: bold;
+}
+.CS2{
+    margin-left: 55px;
+    font-weight: bold;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
